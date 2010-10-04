@@ -1,2 +1,8 @@
+dev-libs/libatomic_ops x86
 dev-ruby/rubygems ~x86
 dev-ruby/rdoc ~x86
+media-fonts/mplus-fonts x86 ~x86
+media-fonts/bitstream-cyberbit x86
+media-fonts/font-sony-misc x86 ~x86
+media-fonts/font-jis-misc x86 ~x86
+x11-libs/vte ~x86-linux

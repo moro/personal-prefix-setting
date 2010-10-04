@@ -1,5 +1,16 @@
-app-i18n/uim linguas_ja
+app-i18n/uim linguas_ja X gtk
+app-editors/vim  python cscope
+app-misc/screen nethack
+dev-lang/ruby yaml
 dev-vcs/git subversion
 dev-vcs/subversion perl -dso
-app-editors/vim  python cscope
-dev-lang/ruby yaml
+media-libs/freetype X
+media-fonts/font-jis-misc X
+media-fonts/font-sony-misc X
+media-fonts/bitstream-cyberbit X
+www-client/w3m linguas_ja
+x11-terms/rxvt-unicode wcwidth xterm-color iso14755
+x11-libs/cairo X svg
+x11-libs/vte -python
+x11-libs/gtk+ vim-syntax
+x11-libs/pango X
